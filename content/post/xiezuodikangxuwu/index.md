@@ -21,4 +21,4 @@ image: pen.jpg
 ## 记点什么
 
 以后每天都会写，可能记天气、新闻、心情，看的书和影视、听的音乐等等。如果有独立的题目，写完会即时更新，比较琐碎的事情周末汇总更新。
-您可以通过RSS订阅我的博客： https://IdaHerty.github.io/index.xml
+博客地址： https://IdaHerty.github.io/
