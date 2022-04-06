@@ -2,7 +2,7 @@
 title: "Song of the AVADHUT 汉译（一）"
 description: 根据Swami Abhayananda的英译本翻译
 date: 2022-03-04T16:43:29+08:00
-draft: false
+draft: true
 image: avadhutcover.jpg
 tags: ["翻译","并非原创"]
 ---
