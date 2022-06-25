@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>stack on IdaHerty's Blog</title><link>https://idaherty.github.io/tags/stack/</link><description>Recent content in stack on IdaHerty's Blog</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Fri, 11 Feb 2022 00:49:22 +0800</lastBuildDate><atom:link href="https://idaherty.github.io/tags/stack/index.xml" rel="self" type="application/rss+xml"/><item><title>First Post</title><link>https://idaherty.github.io/p/first-post/</link><pubDate>Fri, 11 Feb 2022 00:49:22 +0800</pubDate><guid>https://idaherty.github.io/p/first-post/</guid><description>How I created this post:
+First install hugo on your system
+Choose a folder to run this command
+1 hugo new site blog cd into your site folder, init a git repo, and add a theme.
+The theme I used is called Stack.
+1 2 3 4 cd blog git init git clone https://github.com/CaiJimmy/hugo-theme-stack/ themes/hugo-theme-stack git submodule add https://github.com/CaiJimmy/hugo-theme-stack/ themes/hugo-theme-stack Delete config.toml.
+Copy the config.yaml file in exampleSite/ folder
+1 2 rm config.</description></item></channel></rss>
